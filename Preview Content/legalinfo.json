@@ -1,0 +1,462 @@
+[
+    {
+      "id": "1",
+      "location": "New York City",
+      "search": "http://a073-ils-web.nyc.gov/inmatelookup/pages/common/find.jsf",
+      "name": "Benson Michael",
+      "phone_num": "716-592-2900",
+      "bail": "https://www.libertyfund.nyc/contact/",
+      "legal_form": ""
+    },
+    {
+      "id": "2",
+      "location": "New York City",
+      "search": "",
+      "name": "Kevin James",
+      "phone_num": "646-725-9575",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "3",
+      "location": "New York City",
+      "search": "",
+      "name": "Lerner & Lerner, PC",
+      "phone_num": "516-741-4100",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "4",
+      "location": "New York City",
+      "search": "",
+      "name": "Madden Law",
+      "phone_num": "917-318-4067",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "5",
+      "location": "New York City",
+      "search": "",
+      "name": "Paul V. Prestia",
+      "phone_num": "212-937-7765",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "6",
+      "location": "New York City",
+      "search": "",
+      "name": "Adrienne D. Edward, PC",
+      "phone_num": "201-420-8850",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "7",
+      "location": "New York City",
+      "search": "",
+      "name": "NLGNYCnews",
+      "phone_num": "212-679-6018",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "8",
+      "location": "New York City",
+      "search": "",
+      "name": "GoodCall NYC",
+      "phone_num": "1-833-346-6322",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "9",
+      "location": "New York City",
+      "search": "",
+      "name": "National Lawyers Guild NYC",
+      "phone_num": "212-679-6018",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "10",
+      "location": "Los Angeles",
+      "search": "https://app5.lasd.org/iic/ajis_search.cfm",
+      "name": "National Lawyer Guild of LA",
+      "phone_num": "(310) 313-3700",
+      "bail": "https://bailproject.org/",
+      "legal_form": "https://docs.google.com/forms/d/e/1FAIpQLSfV96C8CVwrYC_wUrAr9PL1v4rCPljfzcpsEV_yN9lGQ_UxlQ/viewform"
+    },
+    {
+      "id": "11",
+      "location": "Los Angeles",
+      "search": "",
+      "name": "Ethan Surls",
+      "phone_num": "310-344-3936",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "12",
+      "location": "Los Angeles",
+      "search": "",
+      "name": "Ambrosio E Rodriguez",
+      "phone_num": "213-995-6767",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "13",
+      "location": "Los Angeles",
+      "search": "",
+      "name": "Lauren Noriega",
+      "phone_num": "213-703-0004",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "14",
+      "location": "Los Angeles",
+      "search": "",
+      "name": "Lambda Legal",
+      "phone_num": "(213) 382-7600",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "15",
+      "location": "Los Angeles",
+      "search": "",
+      "name": "Allison Margolin",
+      "phone_num": "908-894-4991",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "16",
+      "location": "Philadelphia",
+      "search": "https://inmate-locator.phila.gov/#/",
+      "name": "Up Against the Law Legal Collective",
+      "phone_num": "(484) 758-0388",
+      "bail": "https://www.phillybailfund.org/client-referrals",
+      "legal_form": ""
+    },
+    {
+      "id": "17",
+      "location": "Philadelphia",
+      "search": "",
+      "name": "Nicholas Mancini",
+      "phone_num": "215-968-1899",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "18",
+      "location": "Philadelphia",
+      "search": "",
+      "name": "Michael Coard",
+      "phone_num": "484-758-0388",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "19",
+      "location": "Philadelphia",
+      "search": "",
+      "name": "Paul J. Hetznecker",
+      "phone_num": "215-893-9640",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "20",
+      "location": "Atlanta",
+      "search": "404-865-8001",
+      "name": "Strongwater & Associates",
+      "phone_num": "404-872-1700",
+      "bail": "https://atlsolidarity.org/index.php/contact/",
+      "legal_form": ""
+    },
+    {
+      "id": "21",
+      "location": "Atlanta",
+      "search": "",
+      "name": "Lions Den Legal",
+      "phone_num": "404-431-9398",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "22",
+      "location": "Atlanta",
+      "search": "",
+      "name": "Durante Partridge",
+      "phone_num": "404-594-2970",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "23",
+      "location": "Atlanta",
+      "search": "",
+      "name": "Amanda Young and Kamria Womack",
+      "phone_num": "404-227-2844",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "24",
+      "location": "Atlanta",
+      "search": "",
+      "name": "J. Edward Shipp",
+      "phone_num": "404-507-6773",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "25",
+      "location": "Atlanta",
+      "search": "",
+      "name": "Jennifer Feathers",
+      "phone_num": "770-363-6411",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "26",
+      "location": "Atlanta",
+      "search": "",
+      "name": "Mutepe Akemon",
+      "phone_num": "404-289-6816",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "27",
+      "location": "Atlanta",
+      "search": "",
+      "name": "Adam Brown",
+      "phone_num": "404-476-6695",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "28",
+      "location": "Detroit",
+      "search": "",
+      "name": "Law Office Ellen S. Best",
+      "phone_num": "207-374-2573",
+      "bail": "Bail fund requests must go through lawyer",
+      "legal_form": ""
+    },
+    {
+      "id": "29",
+      "location": "Detroit",
+      "search": "",
+      "name": "Legal Aid and Defender",
+      "phone_num": "313.967.5800",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "30",
+      "location": "Detroit",
+      "search": "",
+      "name": "ACLU Michigan",
+      "phone_num": "https://intake.aclumich.org/",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "31",
+      "location": "Houston",
+      "search": "https://www.centralbooking.info/inmate-offender-search/locate-inmate-texas/harris-county-jail-inmate-search/",
+      "name": "Kathy Adibe, Esq.",
+      "phone_num": "832-899-4244",
+      "bail": "https://garias.typeform.com/to/TrfS8s",
+      "legal_form": ""
+    },
+    {
+      "id": "32",
+      "location": "Houston",
+      "search": "",
+      "name": "Eric Sundin",
+      "phone_num": "210-834-5630",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "33",
+      "location": "Houston",
+      "search": "",
+      "name": "Damiane Banieh",
+      "phone_num": "281-788-8480",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "34",
+      "location": "Houston",
+      "search": "",
+      "name": "D'Angelo M. Lowe",
+      "phone_num": "832-953-5693",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "35",
+      "location": "Houston",
+      "search": "",
+      "name": "Joy Thomas",
+      "phone_num": "281-444-0330",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "36",
+      "location": "Houston",
+      "search": "",
+      "name": "Jason Johnson",
+      "phone_num": "281-888-9708",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "37",
+      "location": "Houston",
+      "search": "",
+      "name": "Adam Capetillo",
+      "phone_num": "346-420-4069",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "38",
+      "location": "Houston",
+      "search": "",
+      "name": "Darian L. Conston",
+      "phone_num": "803-467-7012",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "39",
+      "location": "Houston",
+      "search": "",
+      "name": "Cherika Edwards",
+      "phone_num": "832-304-0446",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "40",
+      "location": "Houston",
+      "search": "",
+      "name": "Cory Roth",
+      "phone_num": "832-819-5290",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "41",
+      "location": "Houston",
+      "search": "",
+      "name": "Thurgood Legal Rapid Responders",
+      "phone_num": "361-857-4376",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "42",
+      "location": "Houston",
+      "search": "",
+      "name": "Woodrow Dixon",
+      "phone_num": "713-962-0401",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "43",
+      "location": "Houston",
+      "search": "",
+      "name": "Houston Protesters' Defense Team",
+      "phone_num": "361-857-4376",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "44",
+      "location": "Chicago",
+      "search": "https://www2.illinois.gov/idoc/Offender/pages/inmatesearch.aspx",
+      "name": "National Lawyers Guilds of Chicago ",
+      "phone_num": "773-309-1198",
+      "bail": "Bail fund requests must go through lawyer",
+      "legal_form": ""
+    },
+    {
+      "id": "45",
+      "location": "Chicago",
+      "search": "",
+      "name": "Robert Alexander",
+      "phone_num": "312-219-5931",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "46",
+      "location": "Chicago",
+      "search": "",
+      "name": "Buckley Law Group",
+      "phone_num": "808-927-1621",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "47",
+      "location": "Chicago",
+      "search": "",
+      "name": "Saeed and Little, LLP",
+      "phone_num": "317-721-9214",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "48",
+      "location": "Chicago",
+      "search": "",
+      "name": "Saeed and Little, LLP",
+      "phone_num": "317-721-9214",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "49",
+      "location": "Madison",
+      "search": "https://appsdoc.wi.gov/lop/home.do",
+      "name": "Legal Action of Wisonsin",
+      "phone_num": "(608) 256-3304",
+      "bail": "https://freethe350bailfund.wordpress.com/contact/",
+      "legal_form": ""
+    },
+    {
+      "id": "50",
+      "location": "Madison",
+      "search": "",
+      "name": "Community Justice Inc",
+      "phone_num": "(608) 204-9642",
+      "bail": "",
+      "legal_form": ""
+    },
+    {
+      "id": "51",
+      "location": "Minneapolis",
+      "search": "https://jailroster.hennepin.us/JailRosterOnline/jail-roster",
+      "name": "",
+      "phone_num": "",
+      "bail": "",
+      "legal_form": ""
+    }
+  ]
+

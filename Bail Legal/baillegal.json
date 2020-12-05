@@ -1,0 +1,389 @@
+[
+  {
+    "id": "1",
+    "name": "Brooklyn Community Bail Fund",
+    "description": "Brooklyn Community Bail Fund is committed to challenging the racism, inequality, and injustice of a criminal legal system and immigration and deportation regime that disproportionately target and harm low-income communities of color.",
+    "phone_num": "(347) 391-6299",
+    "link": "https://brooklynbailfund.org/",
+    "location": "New York City",
+    "type": "bailfund"
+  },
+  {
+    "id": "2",
+    "name": "The Liberty Fund",
+    "description": "The Liberty Fund’s mission is to reduce the number of New Yorkers subjected to unnecessary pretrial detention while simultaneously providing them with much needed social services. Since August 2017, The Liberty Fund has been critical to the City’s overall decarceration efforts, first through our citywide Charitable Bail Program and now also through our ROR (Released On Recognizance) Program, both of which provide voluntary, person-centered, pretrial case management support.",
+    "phone_num": "",
+    "link": "https://www.libertyfund.nyc/mission-history/",
+    "location": "New York City",
+    "type": "bailfund"
+  },
+  {
+    "id": "3",
+    "name": "The Bronx Freedom Fund",
+    "description": "Founded in 2007, The Bronx Freedom Fund was the first of its kind effort to disrupt the injustice of cash bail in New York City by posting bail for thousands of low-income New Yorkers incarcerated before trial. Through its decade-long effort to transform pretrial justice in New York, The Bronx Freedom Fund reunited thousands of families separated by bail, while pioneering the revolving bail fund model as a tool in the fight against mass incarceration and the criminalization of race and poverty.",
+    "phone_num": "",
+    "link": "http://www.thebronxfreedomfund.org/",
+    "location": "New York City",
+    "type": "bailfund"
+  },
+  {
+    "id": "4",
+    "name": "Action Bail Fund",
+    "description": "The Action Bail Fund supports legal cost associated w/ protest in NYC. We recognize that the US has weaponized the legal system to shut down dissent. We're here to support whoever needs it. No one should get stuck in jail bc they took to the street and shared their voice.",
+    "phone_num": "",
+    "link": "https://afgj.salsalabs.org/actionbailfund/index.html",
+    "location": "New York City",
+    "type": "bailfund"
+  },
+  {
+    "id": "5",
+    "name": "Chicago Community Bond Fund",
+    "description": "The Chicago Community Bond Fund (CCBF) pays bond for people charged with crimes in Cook County, Illinois. Through a revolving fund, CCBF supports individuals whose communities cannot afford to pay the bonds themselves and who have been impacted by structural violence. Inability to pay bond results in higher rates of conviction, longer sentences, loss of housing and jobs, separation of families, and lost custody of children. By paying bond, CCBF restores the presumption of innocence before trial and enables recipients to remain free while fighting their cases. CCBF also engages in public education about the role of bond in the criminal legal system and advocates for the abolition of money bond. CCBF is committed to long-term relationship building and organizing with people most directly impacted by criminalization and policing.",
+    "phone_num": "(844) 363-2663",
+    "link": "https://chicagobond.org/donate/",
+    "location": "Chicago",
+    "type": "bailfund"
+  },
+  {
+    "id": "6",
+    "name": "The Law Office of Sean Brown",
+    "description": "",
+    "phone_num": "(312) 675-6116",
+    "link": "https://www.attorneyseanbrown.com",
+    "location": "Chicago",
+    "type": "legalhelp"
+  },
+  {
+    "id": "7",
+    "name": "Law Offices of Ramon A. Moore",
+    "description": "",
+    "phone_num": "(312) 332-5134",
+    "link": "http://www.ramonmoorelaw.com",
+    "location": "Chicago",
+    "type": "legalhelp"
+  },
+  {
+    "id": "8",
+    "name": "Gardi & Haught",
+    "description": "",
+    "phone_num": "(847) 944-9400",
+    "link": "https://www.gardilaw.com",
+    "location": "Chicago",
+    "type": "legalhelp"
+  },
+  {
+    "id": "9",
+    "name": "Jorie K. Johnson",
+    "description": "",
+    "phone_num": "(847) 922-8683",
+    "link": "https://www.illinoisexpungementlawyerblog.com",
+    "location": "Chicago",
+    "type": "legalhelp"
+  },
+  {
+    "id": "10",
+    "name": "Derrick Morgan Jr",
+    "description": "",
+    "phone_num": "(317) 721-9214",
+    "link": "https://sllawfirm.com/our-firm/",
+    "location": "Chicago",
+    "type": "legalhelp"
+  },
+  {
+    "id": "11",
+    "name": "People's City Council Freedom Fund",
+    "description": "People’s City Council Will Distribute Hundreds Of Thousands Of Dollars To Black Lives Matter LA And The National Lawyers Guild To Support Those Involved With The Ongoing Rebellion In Los Angeles",
+    "phone_num": "",
+    "link": "https://www.gofundme.com/f/peoples-city-council-ticket-fund",
+    "location": "Los Angeles",
+    "type": "bailfund"
+  },
+  {
+    "id": "12",
+    "name": "The Law Offices of J. Patrick Carey",
+    "description": "",
+    "phone_num": "(310) 526-2237",
+    "link": "https://southbaydefenselawyer.com/home/?utm_source=avvo&utm_medium=referral",
+    "location": "Los Angeles",
+    "type": "legalhelp"
+  },
+  {
+    "id": "13",
+    "name": "Law Officeo of Philip D. Hache",
+    "description": "",
+    "phone_num": "(818) 336-1384",
+    "link": "http://philhachelaw.com",
+    "location": "Los Angeles",
+    "type": "legalhelp"
+  },
+  {
+    "id": "14",
+    "name": "The Bail Project (National)",
+    "description": "The Bail Project™ National Revolving Bail Fund provides free bail assistance to low-income individuals who are legally presumed innocent, and whom a judge has deemed eligible for release before trial contingent on paying bail. We enable our clients to return home to their families and communities while awaiting their court dates. We call this model Community Release with Support.",
+    "phone_num": "(323) 366-0799",
+    "link": "https://bailproject.org/our-work/",
+    "location": "Washington, D.C.",
+    "type": "bailfund"
+  },
+  {
+    "id": "15",
+    "name": "Amissah & Marsh",
+    "description": "Founded in 2019, Albert Amissah and Anthony Marsh have been providing the DMV area with unparalleled legal services. Whether you need legal consultation or handling a court case, our team of highly skilled attorneys will walk you through every step, taking care of any issues you may have along the way.",
+    "phone_num": "(703) 655-9148",
+    "link": "http://www.amissahmarshlaw.com",
+    "location": "Washington, D.C.",
+    "type": "legalhelp"
+  },
+  {
+    "id": "16",
+    "name": "The Flynn Law Firm",
+    "description": "Founded in 2011, the Flynn Law Firm is an African American law firm that has been providing outstanding legal services to criminal defendants in the greater Washington, D.C. area. Rex Flynn is licensed to practice law in Virginia, Maryland and Washington, D.C. but practices primarily in Northern Virginia (Fairfax, Arlington, Falls Church, Alexandria, Prince William and Loudoun Counties).",
+    "phone_num": "(703) 310-7624",
+    "link": "https://www.flynnpllc.com",
+    "location": "Washington, D.C.",
+    "type": "legalhelp"
+  },
+  {
+    "id": "17",
+    "name": "A. Clarke Law",
+    "description": "",
+    "phone_num": "(202) 846-2629",
+    "link": "https://aclarkelaw.com",
+    "location": "Washington, D.C.",
+    "type": "legalhelp"
+  },
+  {
+    "id": "18",
+    "name": "Up Against the Law Legal Collective",
+    "description": "Up Against the Law Legal Collective is a Philadelphia based collective of volunteers who support activists by helping them know their rights, providing Legal Observers at protests, ensuring protesters don’t get lost in the legal system during actions, and connecting them with free legal support after actions.",
+    "phone_num": "(484) 758-0388",
+    "link": "https://upagainstthelaw.org/",
+    "location": "Philadelphia",
+    "type": "legalhelp"
+  },
+  {
+    "id": "19",
+    "name": "Philly Bail Fund",
+    "description": "The Philly Bail Fund is a revolving fund that posts bail for people who are indigent and cannot afford bail. Our goal is to keep families and communities together and vigorously advocate for the end to cash bail in Philadelphia.",
+    "phone_num": "(267) 961-3391",
+    "link": "https://www.phillybailfund.org/client-referrals",
+    "location": "Philadelphia",
+    "type": "bailfund"
+  },
+  {
+    "id": "20",
+    "name": "Georgia Legal Services Program",
+    "description": "The Georgia Legal Services Program is a nonprofit corporation whose mission is to provide civil legal services for persons with low incomes, creating equal access to justice and opportunities out of poverty.",
+    "phone_num": "(800) 498-9469",
+    "link": "https://www.glsp.org/",
+    "location": "Atlanta",
+    "type": "legalhelp"
+  },
+  {
+    "id": "21",
+    "name": "Legal Aid Atlanta",
+    "description": "Since 1924, Atlanta Legal Aid Society has offered free civil legal aid for low income people across metro Atlanta. With five neighborhood offices, three offices in Children’s Healthcare of Atlanta hospitals, three county courthouse projects, a variety of self-help clinics, and countless community education programs, Legal Aid lawyers and volunteers reach tens of thousands of people annually. More than 20,000 cases are represented by our staff of 75 attorneys and 1,200 volunteers every year.",
+    "phone_num": "404-524-5811",
+    "link": "https://atlantalegalaid.org/get-help/",
+    "location": "Atlanta",
+    "type": "legalhelp"
+  },
+  {
+    "id": "22",
+    "name": "Atlanta Solidarity Fund",
+    "description": "We provide support for people who are arrested at protests, or otherwise prosecuted for their movement involvement.",
+    "phone_num": "",
+    "link": "https://atlsolidarity.org/#why",
+    "location": "Atlanta",
+    "type": "bailfund"
+  },
+  {
+    "id": "23",
+    "name": "ACLU Michigan",
+    "description": "The ACLU of Michigan's mission remains realizing the promise of the Bill of Rights for all and expanding the reach of its guarantees to new areas through all the tools at our disposal: public education, advocacy, organizing, and litigation.",
+    "phone_num": "(313) 578-6800",
+    "link": "https://www.aclumich.org/en/about/contact-us",
+    "location": "Detroit",
+    "type": "legalhelp"
+  },
+  {
+    "id": "24",
+    "name": "Detroit Justice Center",
+    "description": "The Detroit Justice Center (DJC) is a non-profit law firm working alongside communities to create economic opportunities,\ntransform the justice system, and promote equitable and just cities.",
+    "phone_num": "(313) 736-5957",
+    "link": "https://www.detroitjustice.org/contact-us",
+    "location": "Detroit",
+    "type": "bailfund"
+  },
+  {
+    "id": "25",
+    "name": "Texas Civil Rights Project",
+    "description": "In its twenty-six year history, the Texas Civil Rights Project has brought thousands of strategic lawsuits to protect and expand voting rights, challenge the injustices in our broken criminal justice system, and advance racial and economic justice. Today - with dozens of high-caliber attorneys and professionals in Austin, Dallas, El Paso, Houston and the Rio Grande Valley and an extensive network of pro bono counsel and community allies is among the most influential civil rights organizations in the Lone Star State.",
+    "phone_num": "",
+    "link": "https://txcivilrights.org/get-help/civil-rights-intake-form/",
+    "location": "Houston",
+    "type": "legalhelp"
+  },
+  {
+    "id": "26",
+    "name": "Restoring Justice",
+    "description": "Restoring Justice is partnering with The Bail Project and Pure Justice to use donations to pay bail for people in need during the Covid-19 pandemic at no cost to them or their loved ones. We are independent nonprofit organizations that are not affiliated with or part of any law enforcement agency. Your client must meet the following criteria to be eligible for bail assistance through this partnership:",
+    "phone_num": "(844) 737-3363",
+    "link": "https://www.restoringjustice.org/bail",
+    "location": "Houston",
+    "type": "bailfund"
+  },
+  {
+    "id": "27",
+    "name": "Legal Action of Wisconsin",
+    "description": "We serve clients statewide from six offices staffed with nearly 80 experienced attorneys plus we have hundreds of volunteer attorneys who donate thousands of hours of civil legal service each year.",
+    "phone_num": "(855) 947-2529",
+    "link": "https://www.legalaction.org/contact-us/madison-area-office",
+    "location": "Madison",
+    "type": "legalhelp"
+  },
+  {
+    "id": "28",
+    "name": "Free the 350",
+    "description": "We are a community run bailfund consisting of many local progressive organizations.",
+    "phone_num": "",
+    "link": "https://freethe350bailfund.wordpress.com/contact/",
+    "location": "Madison",
+    "type": "bailfund"
+  },
+  {
+    "id": "29",
+    "name": "Legal Action of Wisconsin",
+    "description": "We serve clients statewide from six offices staffed with nearly 80 experienced attorneys plus we have hundreds of volunteer attorneys who donate thousands of hours of civil legal service each year.",
+    "phone_num": "(855) 947-2529",
+    "link": "https://www.legalaction.org/contact-us/madison-area-office",
+    "location": "Milwaukee",
+    "type": "legalhelp"
+  },
+  {
+    "id": "30",
+    "name": "Milwaukee Freedom Fund",
+    "description": "The Milwaukee Freedom Fund was started by Black and Brown Milwauke organizers who wanted to see residents supported as they asserted their rights to protest for justice. We raised money and are gathering a list of resources for bail, court-related costs, rides, food, water, and other needs. We are dedicated to supporting the struggle for liberation.",
+    "phone_num": "(414) 616-3773",
+    "link": "https://supportwomenshealth.salsalabs.org/mkefreedomfund/index.html",
+    "location": "Milwaukee",
+    "type": "bailfund"
+  },
+  {
+    "id": "31",
+    "name": "ACLU of Florida",
+    "description": "The American Civil Liberties Union of Florida is freedom's watchdog, working daily in the courts, legislatures and communities to defend individual rights and personal freedoms guaranteed by the Constitution and the Bill of Rights.",
+    "phone_num": "(786) 363-2700",
+    "link": "https://www.aclufl.org/",
+    "location": "Miami",
+    "type": "legalhelp"
+  },
+  {
+    "id": "32",
+    "name": "Dade County Put Something Back Pro Bono Project",
+    "description": "The Legal Aid Society is fully staff, free legal service provider for the indigent in Dade County. Legal Aid was established by 1939 and chartered in 1949. It is the oldest provider of free legal services in Dade County and is has eleven full-time lawyers who handle primarily family matters which involve children. Notes:\nThe public is invited to call the Dade County Bar Association at (866) 596-0399 where volunteer attorneys will answer simple legal questions, give brief legal advice or refer the call to an appropriate social service agency for further assistance. LegalLine will be held on the first Wednesday of each month, from 6 p.m. to 9 p.m.",
+    "phone_num": "(866) 596-0399",
+    "link": "http://www.dadecountybar.org/page/dla",
+    "location": "Miami",
+    "type": "legalhelp"
+  },
+  {
+    "id": "33",
+    "name": "Florida Bail Fund",
+    "description": "Florida Bail Fund @ Florida Justice Center is a new effort supporting protesters on the front lines of the fight against racism, homophobia, sexism, mass incarceration, police brutality, and the criminalization of poverty.\n\nWe pay bail for those who cannot afford it and who are striving to make society a better, more just, and inclusive place for all people.",
+    "phone_num": "(954) 758-7555",
+    "link": "https://www.floridajc.org/bail/",
+    "location": "Miami",
+    "type": "bailfund"
+  },
+  {
+    "id": "34",
+    "name": "Texas Civil Rights Project",
+    "description": "In its twenty-six year history, the Texas Civil Rights Project has brought thousands of strategic lawsuits to protect and expand voting rights, challenge the injustices in our broken criminal justice system, and advance racial and economic justice. Today - with dozens of high-caliber attorneys and professionals in Austin, Dallas, El Paso, Houston and the Rio Grande Valley and an extensive network of pro bono counsel and community allies is among the most influential civil rights organizations in the Lone Star State.",
+    "phone_num": "(972) 333-9200",
+    "link": "http://www.texascivilrightsproject.org/",
+    "location": "Dallas",
+    "type": "legalhelp"
+  },
+  {
+    "id": "35",
+    "name": "Community Bail Fund of North Texas",
+    "description": "Our mission is to raise funds to provide free bail to incarcerated individuals in Dallas County Jail who can't afford it so that they can fight their cases from a place of freedom, retaining the presumption of innocence.",
+    "phone_num": "(469) 297-6459",
+    "link": "http://communitybailfundofntx.org/",
+    "location": "Dallas",
+    "type": "bailfund"
+  },
+  {
+    "id": "36",
+    "name": "The Pro Bono Project",
+    "description": "The Pro Bono Project’s continuing mission is to provide free, quality civil legal services to the underserved members of our community. Our work today is as important as at any time in our thirty year history.",
+    "phone_num": "(504) 581 4043",
+    "link": "http://probono-no.org/",
+    "location": "New Orleans",
+    "type": "legalhelp"
+  },
+  {
+    "id": "37",
+    "name": "The Bail Project New Orleans",
+    "description": "In New Orleans, The Bail Project has partnered with The Safety and Freedom Fund at Operation Restoration. Our partnership site serves people incarcerated at the Orleans Parish Prison in the Orleans Parish Criminal District Court system.\n\nOperation Restoration is a community organization which runs 15 programs for women and girls impacted by incarceration. We are collaborating with The Safety and Freedom Fund at Operation Restoration to amplify their capacity to bail people out and support those individuals throughout the duration of their cases.",
+    "phone_num": "(323) 366-0799",
+    "link": "https://bailproject.org/new-orleans/",
+    "location": "New Orleans",
+    "type": "bailfund"
+  },
+  {
+    "id": "38",
+    "name": "Legal Aid Justice Center",
+    "description": "The Legal Aid Justice Center partners with communities and clients to achieve justice by dismantling systems that create and perpetuate poverty. Justice means racial justice, social justice, and economic justice.",
+    "phone_num": "(434) 977-0553",
+    "link": "https://www.justice4all.org/get-help/",
+    "location": "Richmond",
+    "type": "legalhelp"
+  },
+  {
+    "id": "39",
+    "name": "Richmond Community Bail",
+    "description": "The Richmond Community Bail Fund exists to post bail for everyone in Central Virginia who needs it in order to help them avoid the many immediate and collateral consequences of incarceration. We work toward the abolition of not just cash bail, but pretrial detention and supervision as well.",
+    "phone_num": "(804) 601.4944",
+    "link": "https://rvabailfund.org/",
+    "location": "Richmond",
+    "type": "bailfund"
+  },
+  {
+    "id": "40",
+    "name": "Burrows and O'Connor",
+    "description": "I am a criminal defense attorney with experience and expertise in appeals, collateral challenges to criminal convictions, and research and writing in capital and complex cases. I work in state (Oregon) and federal court.\nAppeals (civil/criminal), Criminal Defense, Death Penalty, Post Conviction Remedies, Prisoners' Rights",
+    "phone_num": "(503) 753 3242",
+    "link": "http://oconnorweber.com/",
+    "location": "Portland",
+    "type": "legalhelp"
+  },
+  {
+    "id": "41",
+    "name": "Portland Freedom Fund",
+    "description": "We are a volunteer-run abolitionist organization currently dedicated to reducing harms perpetuated against our Black, Brown and Indigenous neighbors by the criminal justice system through posting bail so they may navigate their case from a position of freedom.",
+    "phone_num": "",
+    "link": "https://portlandfreedomfund.org/referral-form/",
+    "location": "Portland",
+    "type": "bailfund"
+  },
+  {
+    "id": "42",
+    "name": "Volunteers Lawyers Network",
+    "description": "Volunteer Lawyers Network is a 501(c)3 non-profit organization dedicated to connecting Minnesotans experiencing poverty with some of the top private lawyers in the state at no cost.\n\nThese volunteers protect the rights and property of thousands of clients every year by advising them at legal clinics, drafting legal documents, representing them in court or otherwise supporting them in their pursuit of justice.",
+    "phone_num": "(612) 752-6677",
+    "link": "https://www.vlnmn.org/",
+    "location": "Minneapolis",
+    "type": "legalhelp"
+  },
+  {
+    "id": "43",
+    "name": "Minnesota Freedom Fund",
+    "description": "At Minnesota Freedom Fund, we believe that wealth should never determine who is kept in jail. That’s what the money bail system does. It puts a price on freedom that only a few can afford and many cannot. This system is unjust.\n\nThat’s why we’re working to create a society that values the freedom of all people, regardless of class or identity, ends mass incarceration, and invests in restorative and transformative justice.",
+    "phone_num": "",
+    "link": "https://mnfreedomfund.org/",
+    "location": "Minneapolis",
+    "type": "bailfund"
+  }
+]
